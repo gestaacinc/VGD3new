@@ -92,7 +92,7 @@ Download design assets, UI kits, fonts, and mockups from:
 ---
 
 ## 📅 Submission Guidelines
-- **Deadline**: Today, before **[insert time here]**
+- **Create A Folder containing your YourLastname_Firstname**:**
 - **Format**: ZIP file containing:
   - `logo.png`
   - `poster.jpg/png`
